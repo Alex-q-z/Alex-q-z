@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I'm Qizheng. 
 
 - 🌱 I study Mathematics and Computer science.
-- 🔭 I do research in computer networks and video analytics.
+- 🔭 I do research in computer networks and video analytics. [Academic Homepage](https://alex-q-z.github.io) |
 - 🎨 I'm interested in Chinese and Japanese art and architecture.
 - 🎯 I watch soccer, play video games, and watch anime in my spare time.
