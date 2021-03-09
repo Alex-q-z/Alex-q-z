@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Qizheng. 
 
-- 🌱 I study Mathematics and Computer science.
+- 🌱 I study Mathematics, Computer science, and Statistics.
 - 🔭 I do research in computer networks and video analytics. [Academic Homepage](https://alex-q-z.github.io)
-- 🎨 I'm interested in Chinese and Japanese art and architecture.
+- 🎨 I'm interested in Chinese and Japanese art and architecture. [Scroll Paintings](https://scrolls.uchicago.edu/search)
 - 🎯 I watch soccer, play video games, and watch anime in my spare time.
